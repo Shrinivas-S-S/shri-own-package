@@ -1,0 +1,22 @@
+{
+  "name": "shri-own-package",
+  "version": "1.0.0",
+  "description": "button style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Button"
+  ],
+  "author": "shri",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shrinivas-S-S/shri-own-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shrinivas-S-S/shri-own-package/issues"
+  },
+  "homepage": "https://github.com/Shrinivas-S-S/shri-own-package#readme"
+}
